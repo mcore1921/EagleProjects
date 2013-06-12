@@ -20,7 +20,7 @@
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
@@ -127,6 +127,17 @@
 <wire x1="12.954" y1="34.671" x2="14.224" y2="33.401" width="0.254" layer="21"/>
 <wire x1="14.224" y1="33.401" x2="15.494" y2="33.401" width="0.254" layer="21"/>
 <text x="15.24" y="34.29" size="1.27" layer="21" font="vector" ratio="15">design</text>
+<text x="16.764" y="29.845" size="0.8128" layer="21" font="vector" ratio="15">100k</text>
+<text x="28.575" y="9.144" size="0.8128" layer="21" font="vector" ratio="15" rot="R90">100k</text>
+<text x="28.575" y="24.13" size="0.8128" layer="21" font="vector" ratio="15" rot="R90">12R</text>
+<text x="33.655" y="23.114" size="0.8128" layer="21" font="vector" ratio="15" rot="R90">68k</text>
+<text x="18.923" y="26.035" size="0.8128" layer="21" font="vector" ratio="15" rot="R180">1k</text>
+<text x="19.177" y="4.445" size="0.8128" layer="21" font="vector" ratio="15">1k</text>
+<text x="18.034" y="9.525" size="0.8128" layer="21" font="vector" ratio="15">22k</text>
+<text x="15.494" y="17.145" size="0.8128" layer="21" font="vector" ratio="15">TLC272P</text>
+<text x="3.429" y="8.89" size="0.8128" layer="21" font="vector" ratio="15">470uF</text>
+<text x="7.874" y="15.621" size="0.8128" layer="21" font="vector" ratio="15" rot="R90">22uF</text>
+<text x="12.319" y="9.525" size="0.8128" layer="21" font="vector" ratio="15" rot="R180">0.1uF</text>
 </plain>
 <libraries>
 <library name="linear">
