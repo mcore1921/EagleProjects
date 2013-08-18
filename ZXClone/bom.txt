@@ -1,0 +1,20 @@
+Partlist exported from C:/Users/Matt/Documents/eagle/ZXClone/zxclone.sch at 7/21/2013 9:11:37 PM
+
+Part      Value     Device        Package   Description                                                    
+C1        470uF     CPOL-USE2.5-7 E2,5-7    POLARIZED CAPACITOR, American symbol                           
+C2        22uF      CPOL-USE5-4   E5-4      POLARIZED CAPACITOR, American symbol                           
+C3        0.1uF     CPOL-USE1.8-4 E1,8-4    POLARIZED CAPACITOR, American symbol                           
+IC1       TLC272P   TLC272P       DIL08     OP AMP                                                         
+JP1                 M03PTH        1X03      Header 3                                                       
+R1        22k       R-US_0207/10  0207/10   RESISTOR, American symbol                                      
+R2        100k      R-US_0207/10  0207/10   RESISTOR, American symbol                                      
+R3        1k        R-US_0207/10  0207/10   RESISTOR, American symbol                                      
+R4        100k      R-US_0207/10  0207/10   RESISTOR, American symbol                                      
+R5        68k       R-US_0207/10  0207/10   RESISTOR, American symbol                                      
+R6        1k        R-US_0207/10  0207/10   RESISTOR, American symbol                                      
+R7        12R       R-US_0207/10  0207/10   RESISTOR, American symbol                                      
+STANDOFF1 STAND-OFF STAND-OFF     STAND-OFF #4 Stand Off                                                   
+STANDOFF2 STAND-OFF STAND-OFF     STAND-OFF #4 Stand Off                                                   
+STANDOFF3 STAND-OFF STAND-OFF     STAND-OFF #4 Stand Off                                                   
+STANDOFF4 STAND-OFF STAND-OFF     STAND-OFF #4 Stand Off                                                   
+U$1       MIC9.7MM  MIC9.7MM      MIC-9.7MM Omni-directional electret microphone. 9.7mm standard diameter. 
