@@ -363,7 +363,7 @@ UsedLibrary="D:/Program Files (x86)/EAGLE-6.4.0/lbr/Core_stuff/ATtinyX61.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="320 35 1247 434"
+Loc="2147 157 3074 555"
 State=2
 Number=0
 
