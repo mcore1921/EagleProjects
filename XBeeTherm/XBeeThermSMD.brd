@@ -113,7 +113,7 @@
 <circle x="4.445" y="44.196" radius="0.127" width="0.3048" layer="21"/>
 <text x="2.54" y="39.37" size="2.1844" layer="21" font="vector" ratio="15" rot="SR270">XBee Therm Board</text>
 <text x="18.034" y="36.83" size="0.6096" layer="21" font="vector" ratio="15">10uF</text>
-<text x="28.829" y="36.322" size="0.6096" layer="21" font="vector" ratio="15" rot="SR270">200k</text>
+<text x="28.829" y="36.322" size="0.6096" layer="21" font="vector" ratio="15" rot="SR270">0Ohm</text>
 <text x="28.829" y="32.766" size="0.6096" layer="21" font="vector" ratio="15" rot="SR270">100k</text>
 <text x="28.956" y="26.416" size="0.6096" layer="21" font="vector" ratio="15" rot="SR270">47uH</text>
 <text x="16.129" y="27.178" size="0.6096" layer="21" font="vector" ratio="15" rot="SR270">NCP1402</text>
@@ -1783,7 +1783,7 @@ design rules under a new name.</description>
 <element name="TMP36" library="Sensors" package="SOT23-5" value="TMP36" x="22.86" y="49.53"/>
 <element name="C1" library="resistor" package="C0402" value="0.1uF" x="21.59" y="44.45" rot="R270"/>
 <element name="C4" library="resistor" package="R/2012-12R" value="2.2uF" x="24.13" y="44.45" rot="R90"/>
-<element name="R1" library="resistor" package="R0603" value="200k" x="30.48" y="35.56" rot="R90"/>
+<element name="R1" library="resistor" package="R0603" value="0 (Bridge)" x="30.48" y="35.56" rot="R90"/>
 <element name="R2" library="resistor" package="R0603" value="100k" x="30.48" y="31.75" rot="R90"/>
 <element name="C5" library="resistor" package="C0805" value="1uF" x="16.51" y="16.51"/>
 <element name="STANDOFF1" library="SparkFun-Electromechanical" package="STAND-OFF" value="STAND-OFF" x="41.91" y="53.34"/>

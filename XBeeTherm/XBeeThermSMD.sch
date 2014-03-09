@@ -14137,7 +14137,7 @@ Source: www.kingbright.com</description>
 <part name="GND7" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="C4" library="resistor" deviceset="CPOL-US" device="R/2012-12R" value="2.2uF"/>
 <part name="GND8" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="R1" library="resistor" deviceset="R-US_" device="R0603" value="200k"/>
+<part name="R1" library="resistor" deviceset="R-US_" device="R0603" value="0 (Bridge)"/>
 <part name="R2" library="resistor" deviceset="R-US_" device="R0603" value="100k"/>
 <part name="GND9" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="C5" library="resistor" deviceset="C-US" device="C0805" value="1uF"/>
