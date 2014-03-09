@@ -1,0 +1,85 @@
+
+quantity partnum cust_ref
+1	587-2104-1-ND	NR6028T470M_47UH_Inductor
+1	NCP1400ASN33T1GOSCT-ND	Voltage_Regulator_0.1ma_3.3v
+2	475-1409-1-ND	0603_Green_LED_(RSSI_STS)
+1	475-3016-1-ND	0603_Red_LED_(ASC)
+1	445-1265-1-ND	0402_0.1uF_(C1)
+1	311-1355-1-ND	0805_10uF_(C2)
+1	399-4698-1-ND	1206_68uF_(C3)
+1	478-8123-1-ND	0805_2.2uF_(C4)
+1	311-1458-1-ND	0805_1uF_(C5)
+1	MBRA140T3GOSCT-ND	Diode
+1	RMCF0603FT200KCT-ND	0603_200k_resistor_(R1)
+1	RMCF0603FT100KCT-ND	0603_100k_resistor_(R2)
+3	RNCP0603FTD1K00CT-ND	0603_1k_resistor_(R3_R4_R5)
+0	TC33X-103ECT-ND	10k_Trimpot
+1	RMCF0603FT17K4CT-ND	0603_17.4k_resistor_(R7)
+1	450-1650-ND	Tactile_Switch
+4	BK-92-ND	Battery_Holder
+1	TMP36GRTZ-REEL7CT-ND	TMP36_temperature_sensor
+2	S5751-10-ND	XBee_Pin_Header
+1	602-1098-ND	XBee
+
+
+1	NCP1402SN33T1GOSCT-ND	Voltage_Regulator
+
+
+Part      Value                 Device                Package          Description                                                    PROD_ID  
+47UH                            INDUCTORCR54          CR54             Inductors                                                               
+1402      NCP1402               V_REG_NCP1400SOT23-5  SOT23-5          Switching step-up voltage regulator                                     
+ASC                             LEDCHIP-LED0603       CHIP-LED0603     LED                                                                     
+C1        0.1uF                 C-USC0402             C0402            CAPACITOR, American symbol                                              
+C2        10uF                  C-USC0805             C0805            CAPACITOR, American symbol                                              
+C3        68uF                  CPOL-USCT3216         CT3216           POLARIZED CAPACITOR, American symbol                                    
+C4        2.2uF                 CPOL-USR/2012-12R     R/2012-12R       POLARIZED CAPACITOR, American symbol                                    
+C5        1uF                   C-USC0805             C0805            CAPACITOR, American symbol                                              
+D1        MBRA140               MBRA140               SMA-DIODE        40V, 1A Schottky rectifier                                     DIO-08053
+R1        200k                  R-US_R0603            R0603            RESISTOR, American symbol                                               
+R2        100k                  R-US_R0603            R0603            RESISTOR, American symbol                                               
+R3        1k                    R-US_R0603            R0603            RESISTOR, American symbol                                               
+R4        1k                    R-US_R0603            R0603            RESISTOR, American symbol                                               
+R5        1k                    R-US_R0603            R0603            RESISTOR, American symbol                                               
+R6        10K                   TRIMPOT-2             TRIMPOT_TC33     Various small potentiometers for "set-and-forget" applications          
+R7        17.5k                 R-US_R0603            R0603            RESISTOR, American symbol                                               
+RSSI                            LEDCHIP-LED0603       CHIP-LED0603     LED                                                                     
+S1        SWITCH-MOMENTARY-2PTH SWITCH-MOMENTARY-2PTH TACTILE-PTH      Various NO switches- pushbuttons, reed, etc                             
+STANDOFF1 STAND-OFF             STAND-OFF             STAND-OFF        #4 Stand Off                                                            
+STANDOFF2 STAND-OFF             STAND-OFF             STAND-OFF        #4 Stand Off                                                            
+STANDOFF3 STAND-OFF             STAND-OFF             STAND-OFF        #4 Stand Off                                                            
+STANDOFF4 STAND-OFF             STAND-OFF             STAND-OFF        #4 Stand Off                                                            
+STS                             LEDCHIP-LED0603       CHIP-LED0603     LED                                                                     
+TMP36     TMP36                 TMP36                 SOT23-5          Temperature Sensor                                                      
+U$1       XBEE-1B2              XBEE-1B2              XBEE-SILK        Xbee module footprints                                                  
+U$2       BATTERY-AA            BATTERY-AA            BATTERY_AA_CLIPS                                                                         
+U$3       BATTERY-AA            BATTERY-AA            BATTERY_AA_CLIPS                                                                         
+
+
+Part      Value                 Device                Package          Description                                                    PROD_ID  
+47UH                            INDUCTORCR54          CR54             Inductors                                                               
+1402      NCP1402               V_REG_NCP1400SOT23-5  SOT23-5          Switching step-up voltage regulator                                     
+ASC                             LEDCHIP-LED0603       CHIP-LED0603     LED                                                                     
+C1        0.1uF                 C-USC0402             C0402            CAPACITOR, American symbol                                              
+C2        10uF                  C-USC0805             C0805            CAPACITOR, American symbol                                              
+C3        68uF                  CPOL-USCT3216         CT3216           POLARIZED CAPACITOR, American symbol                                    
+C4        2.2uF                 CPOL-USR/2012-12R     R/2012-12R       POLARIZED CAPACITOR, American symbol                                    
+C5        1uF                   C-USC0805             C0805            CAPACITOR, American symbol                                              
+D1        MBRA140               MBRA140               SMA-DIODE        40V, 1A Schottky rectifier                                     DIO-08053
+R1        200k                  R-US_R0603            R0603            RESISTOR, American symbol                                               
+R2        100k                  R-US_R0603            R0603            RESISTOR, American symbol                                               
+R3        1k                    R-US_R0603            R0603            RESISTOR, American symbol                                               
+R4        1k                    R-US_R0603            R0603            RESISTOR, American symbol                                               
+R5        1k                    R-US_R0603            R0603            RESISTOR, American symbol                                               
+R6        10K                   TRIMPOT-2             TRIMPOT_TC33     Various small potentiometers for "set-and-forget" applications          
+R7        17.5k                 R-US_R0603            R0603            RESISTOR, American symbol                                               
+RSSI                            LEDCHIP-LED0603       CHIP-LED0603     LED                                                                     
+S1        SWITCH-MOMENTARY-2PTH SWITCH-MOMENTARY-2PTH TACTILE-PTH      Various NO switches- pushbuttons, reed, etc                             
+STANDOFF1 STAND-OFF             STAND-OFF             STAND-OFF        #4 Stand Off                                                            
+STANDOFF2 STAND-OFF             STAND-OFF             STAND-OFF        #4 Stand Off                                                            
+STANDOFF3 STAND-OFF             STAND-OFF             STAND-OFF        #4 Stand Off                                                            
+STANDOFF4 STAND-OFF             STAND-OFF             STAND-OFF        #4 Stand Off                                                            
+STS                             LEDCHIP-LED0603       CHIP-LED0603     LED                                                                     
+TMP36     TMP36                 TMP36                 SOT23-5          Temperature Sensor                                                      
+U$1       XBEE-1B2              XBEE-1B2              XBEE-SILK        Xbee module footprints                                                  
+U$2       BATTERY-AA            BATTERY-AA            BATTERY_AA_CLIPS                                                                         
+U$3       BATTERY-AA            BATTERY-AA            BATTERY_AA_CLIPS                                                                         
